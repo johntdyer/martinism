@@ -1,5 +1,5 @@
-require "martin/version"
+require "martinism/version"
 
-module Martin
+module Martinism
   # Your code goes here...
 end
