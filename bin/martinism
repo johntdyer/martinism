@@ -2,9 +2,48 @@
 
 quotes = [
 "we're all paying the taxes on life",
+
 "watch out for millions of files in your disk subsystem",
+
 "Yes, Big Pharmaceutical companies can use the cloud, too.",
-"There are large \"private clouds,\" in both the public and private sectors. These private clouds are formations of trusted communities for managing processes, such as Protocols, Certification, Compliance, and various Work Flows . Private clouds allow community members to securely share and manage information while allowing critical transparency."
+
+"There are large \"private clouds,\" in both the public and private sectors. These private clouds are formations of trusted communities for managing processes, such as Protocols, Certification, Compliance, and various Work Flows . Private clouds allow community members to securely share and manage information while allowing critical transparency.",
+
+"Well, I thought we already went over that, but I guess I can explain it again",
+
+"Let me be very clear on this...",
+
+"Essentially, anything you do outside your corporate IT 
+firewall is in the cloud. Nothing \"cloudy\" about it :)",
+
+"Cars, home appliances, even light bulbs will all eventually connect 
+to the cloud. \" The Internet of Things\" is where it's all headed. 
+Smart Appliances will be a savior to our power grid. And just 
+imagine what will happen when everyone plugs in their Electric 
+Vehicle some day",
+
+"It's like this. The cloud is not inside the firewall. 
+Information Technologists will still perform due 
+diligence on cloud solutions. But real implementation 
+will be outside their view \"up in the cloud 
+somewhere.\"",
+
+"Yes, you can have your personal data in the cloud, but we 
+don't think about your phone data being \"in the cloud.\" 
+However, it could be :)",
+
+"Sorry, grid computing is really a separate discussion 
+altogether. The Grid was a technology trying to find a 
+market solution, rather than a solution finding a market.",
+
+"Obviously it takes an economy of scale to \"go cloud.\"",
+
+"Any time there is a workflow, a protocol, or compliance 
+requirement, a cloud solution can service these challenges 
+and scale to large communities.",
+
+"I don't \"write my own code\". I perform surgery. Let me show you with this 
+Brower recording software."
 ]
 
 puts quotes.sample
