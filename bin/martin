@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+quotes = [
+"we're all paying the taxes on life",
+"watch out for millions of files in your disk subsystem",
+"Yes, Big Pharmaceutical companies can use the cloud, too.",
+"There are large "private clouds," in both the public and private sectors. These private clouds are formations of trusted communities for managing processes, such as Protocols, Certification, Compliance, and various Work Flows . Private clouds allow community members to securely share and manage information while allowing critical transparency."
+]
+
+puts quotes.sample
