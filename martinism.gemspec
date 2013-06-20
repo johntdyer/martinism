@@ -6,8 +6,8 @@ require 'martinism/version'
 Gem::Specification.new do |spec|
   spec.name          = "martinism"
   spec.version       = Martinism::VERSION
-  spec.authors       = ["John Dyer"]
-  spec.email         = ["johntdyer@gmail.com"]
+  spec.authors       = ["John Dyer","Robby Dyer"]
+  spec.email         = ["johntdyer@gmail.com","robby.dyer@gmail.com"]
   spec.description   = %q{}
   spec.summary       = %q{}
   spec.homepage      = "https://github.com/johntdyer/martinism"
